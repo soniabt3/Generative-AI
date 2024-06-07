@@ -1,0 +1,102 @@
+house_type,availability,location,size,society,total_sqft,bath,balcony,price,Agent Name,Contact Number,Housing Society
+apartment,available in 2028,Electronic City Phase II,2 BHK,Vaswani,1056,2,1,3907000,Ramesh Sharma,9876543210,Greenwood Apartments
+stand alone house,Ready To Move,Domlur,4 Bedroom,Vaswani,2600,5,3,12000000,Sneha Patel,8765432109,Royal Residency
+apartment,Ready To Move,Whitefield,3 BHK,Vaswani,1440,2,3,6200000,Amit Singh,7654321098,Silver Oaks Society
+apartment,Ready To Move,Kengeri,3 BHK,Vaswani,1521,3,1,9500000,Priya Gupta,6543210987,Golden Gardens
+apartment,Ready To Move,Kengeri,2 BHK,Vaswani,1200,2,1,5100000,Sanjay Kumar,5432109876,Palm View Society
+apartment,Ready To Move,Whitefield,2 BHK,Vaswani,1170,2,1,3800000,Divya Shah,4321098765,Maple Heights
+apartment,available in 2028,Marathahalli,4 BHK,Vaswani,2732,4,,20400000,Vikram Desai,3210987654,Lakeview Towers
+apartment,Ready To Move,Marathahalli,4 BHK,Vaswani,3300,4,,60000000,Neha Verma,2109876543,Orchid Enclave
+apartment,Ready To Move,Marathahalli,3 BHK,Vaswani,1310,3,1,6325000,Anil Reddy,1098765432,Sunrise Heights
+stand alone house,Ready To Move,Hebbal,6 Bedroom,Vaswani,1020,6,,37000000,Pooja Choudhary,9876543210,Skyline Gardens
+apartment,available in 2028,Whitefield,3 BHK,Vaswani,1800,2,2,7000000,Rajesh Iyer,8765432109,Ocean Vista
+stand alone house,Ready To Move,Whitefield,4 Bedroom,Vaswani,2785,5,3,29500000,Anita Kapoor,7654321098,Spring Meadows
+apartment,Ready To Move,7th Phase JP Nagar,2 BHK,Vaswani,1000,2,1,3800000,Rahul Sharma,6543210987,Riverside Residency
+apartment,Ready To Move,Hebbal,2 BHK,Vaswani,1100,2,2,4000000,Kavita Singh,5432109876,Greenwood Apartments
+stand alone house,Ready To Move,Sarjapur,3 Bedroom,Vaswani,2250,3,2,14800000,Ganesh Kumar,4321098765,Royal Residency
+apartment,Ready To Move,Marathahalli,2 BHK,Vaswani,1175,2,2,7350000,Meera Patel,3210987654,Silver Oaks Society
+apartment,Ready To Move,Bellandur,3 BHK,Vaswani,1180,3,2,4800000,Kishore Gupta,2109876543,Golden Gardens
+apartment,Ready To Move,Marathahalli,3 BHK,Vaswani,1540,3,3,6000000,Sunita Kumar,1098765432,Palm View Society
+apartment,Ready To Move,Marathahalli,3 BHK,Vaswani,2770,4,2,29000000,Manoj Shah,9876543210,Maple Heights
+apartment,Ready To Move,Kengeri,2 BHK,Vaswani,1100,2,2,4800000,Radha Desai,8765432109,Lakeview Towers
+apartment,Ready To Move,Kengeri,1 BHK,Vaswani,600,1,1,1500000,Arun Verma,7654321098,Orchid Enclave
+apartment,available in 2028,Bellandur,3 BHK,Vaswani,1755,3,1,12200000,Shalini Reddy,6543210987,Sunrise Heights
+stand alone house,Ready To Move,Sarjapur,4 Bedroom,Vaswani,2800,5,2,38000000,Vivek Choudhary,5432109876,Skyline Gardens
+apartment,Ready To Move,Bellandur,3 BHK,Vaswani,1767,3,1,10300000,Anjali Iyer,4321098765,Ocean Vista
+apartment,available in 2028,Sarjapur,1 RK,Vaswani,510,1,0,2525000,Suresh Kapoor,3210987654,Spring Meadows
+apartment,available in 2028,Kengeri,3 BHK,Vaswani,1250,3,2,5600000,Sarita Sharma,2109876543,Riverside Residency
+apartment,Ready To Move,Electronic City,2 BHK,Vaswani,660,1,1,2310000,Deepak Singh,1098765432,Greenwood Apartments
+apartment,available in 2028,Whitefield,3 BHK,Brigade,1610,3,2,8100000,Shreya Patel,9876543210,Royal Residency
+apartment,available in 2028,Marathahalli,2 BHK,Brigade,1151,2,2,4877000,Ashok Kumar,8765432109,Silver Oaks Society
+apartment,Ready To Move,Electronic City,3 BHK,Brigade,1025,2,1,4700000,Jyoti Gupta,7654321098,Golden Gardens
+apartment,available in 2029,Whitefield,4 BHK,Brigade,2500,4,0,18600000,Rajesh Verma,6543210987,Palm View Society
+apartment,Ready To Move,Bellandur,3 BHK,Brigade,1075,2,1,3500000,Neha Shah,5432109876,Maple Heights
+apartment,Ready To Move,Hebbal,3 BHK,Brigade,1760,2,2,12300000,Alok Desai,4321098765,Lakeview Towers
+apartment,Ready To Move,Marathahalli,3 BHK,Brigade,1693,3,3,5739000,Sneha Reddy,3210987654,Orchid Enclave
+apartment,Ready To Move,HSR Layout,3 BHK,Brigade,1925,3,,12500000,Amit Choudhary,2109876543,Sunrise Heights
+apartment,available in 2029,HSR Layout,2 BHK,Brigade,700,2,1,3600000,Kavita Iyer,1098765432,Skyline Gardens
+apartment,Ready To Move,Electronics City Phase 1,2 BHK,Brigade,1070,2,1,4550000,Arun Kapoor,9876543210,Ocean Vista
+apartment,Ready To Move,Kengeri,3 BHK,Brigade,1724,3,2,12500000,Pooja Sharma,8765432109,Spring Meadows
+apartment,Ready To Move,Domlur,3 BHK,Brigade,1290,2,2,5612000,Rajesh Singh,7654321098,Riverside Residency
+apartment,Ready To Move,Whitefield,2 BHK,Brigade,1143,2,2,4500000,Anita Patel,6543210987,Greenwood Apartments
+apartment,Ready To Move,Marathahalli,2 BHK,Brigade,1296,2,,8100000,Vikram Kumar,5432109876,Royal Residency
+apartment,available in 2029,Sarjapur,3 BHK,Brigade,1254,3,2,3800000,Priya Gupta,4321098765,Silver Oaks Society
+apartment,Ready To Move,Hebbal,1 BHK,Brigade,600,1,0,3800000,Sanjay Verma,3210987654,Golden Gardens
+stand alone house,Ready To Move,Whitefield,1 Bedroom,Godrej,660,1,0,4800000,Divya Shah,2109876543,Palm View Society
+apartment,available in 2029,HSR Layout,2 BHK,Godrej,1400,2,2,9179000,Neha Reddy,1098765432,Maple Heights
+stand alone house,Ready To Move,HSR Layout,8 Bedroom,Godrej,600,9,,20000000,Anil Choudhary,9876543210,Lakeview Towers
+apartment,Ready To Move,Domlur,2 BHK,Godrej,970,2,0,3300000,Sneha Iyer,8765432109,Orchid Enclave
+apartment,available in 2029,Whitefield,2 BHK,Godrej,1459,2,1,9482000,Amit Kapoor,7654321098,Sunrise Heights
+stand alone house,Ready To Move,Kengeri,2 Bedroom,Godrej,800,1,1,13000000,Priya Sharma,6543210987,Skyline Gardens
+apartment,Ready To Move,HSR Layout,2 BHK,Godrej,869,2,1,3600000,Sanjay Singh,5432109876,Ocean Vista
+apartment,Ready To Move,Bellandur,2 BHK,Godrej,1270,2,1,5000000,Divya Patel,4321098765,Spring Meadows
+apartment,available in 2029,Bellandur,3 BHK,Godrej,1670,3,1,9900000,Vikram Kumar,3210987654,Riverside Residency
+apartment,Ready To Move,Whitefield,3 BHK,Godrej,2010,3,2,9100000,Neha Patel,2109876543,Greenwood Apartments
+apartment,Ready To Move,Kengeri,2 BHK,Godrej,1185,2,2,7500000,Anil Kumar,1098765432,Royal Residency
+apartment,Ready To Move,Whitefield,3 BHK,Godrej,1600,2,3,7500000,Pooja Gupta,9876543210,Silver Oaks Society
+apartment,Ready To Move,Bellandur,2 BHK,Godrej,1200,2,2,4400000,Rajesh Verma,8765432109,Golden Gardens
+apartment,available in 2029,Domlur,4 Bedroom,Godrej,3200,,,19200000,Sneha Shah,7654321098,Palm View Society
+apartment,Ready To Move,Marathahalli,2 BHK,Godrej,1500,2,2,18500000,Amit Reddy,6543210987,Maple Heights
+stand alone house,Ready To Move,Marathahalli,6 Bedroom,Platinum City,1407,4,1,15000000,Priya Choudhary,5432109876,Lakeview Towers
+apartment,Ready To Move,Hebbal,2 BHK,Platinum City,840,2,2,4500000,Sanjay Iyer,4321098765,Orchid Enclave
+stand alone house,Ready To Move,Sarjapur,3 Bedroom,Platinum City,4395,3,2,24000000,Divya Kapoor,3210987654,Sunrise Heights
+apartment,Ready To Move,Hebbal,2 BHK,Platinum City,845,2,1,5500000,Vikram Sharma,2109876543,Skyline Gardens
+stand alone house,Ready To Move,Whitefield,4 Bedroom,Platinum City,5700,5,3,65000000,Neha Singh,1098765432,Ocean Vista
+apartment,Ready To Move,Whitefield,2 BHK,Platinum City,1160,2,2,4400000,Anil Patel,9876543210,Spring Meadows
+apartment,Ready To Move,Bellandur,8 Bedroom,Platinum City,3000,8,0,14000000,Pooja Kumar,8765432109,Riverside Residency
+apartment,Ready To Move,Domlur,2 BHK,Platinum City,1100,2,1,6200000,Rajesh Sharma,7654321098,Greenwood Apartments
+apartment,available in 2029,Hebbal,2 BHK,Platinum City,1140,2,3,4300000,Sneha Verma,6543210987,Royal Residency
+apartment,Ready To Move,Marathahalli,2 BHK,Platinum City,1220,2,1,5700000,Amit Shah,5432109876,Silver Oaks Society
+stand alone house,Ready To Move,Domlur,8 Bedroom,Platinum City,1350,7,0,8500000,Priya Kumar,4321098765,Golden Gardens
+apartment,Ready To Move,HSR Layout,2 BHK,Platinum City,1005,2,1,3668000,Sanjay Verma,3210987654,Palm View Society
+stand alone house,Ready To Move,Domlur,3 Bedroom,Platinum City,500,3,2,10000000,Divya Reddy,2109876543,Maple Heights
+apartment,available in 2029,Bellandur,2 BHK,Platinum City,1358,2,1,8058000,Vikram Choudhary,1098765432,Lakeview Towers
+apartment,Ready To Move,Hebbal,3 BHK,Prestige,1569,3,1,10100000,Neha Iyer,9876543210,Orchid Enclave
+apartment,available in 2031,Hebbal,2 BHK,Prestige,1240,2,1,7000000,Anil Kapoor,8765432109,Sunrise Heights
+apartment,Ready To Move,Hennur Road,3 BHK,Prestige,2089,3,2,14000000,Pooja Sharma,7654321098,Skyline Gardens
+apartment,Ready To Move,Kengeri,2 BHK,Prestige,1206,2,1,4823000,Rajesh Singh,6543210987,Ocean Vista
+apartment,Ready To Move,HSR Layout,2 BHK,Prestige,1150,2,3,4000000,Sneha Patel,5432109876,Spring Meadows
+apartment,Ready To Move,Domlur,3 BHK,Prestige,2511,3,3,20500000,Amit Kumar,4321098765,Riverside Residency
+apartment,Ready To Move,HSR Layout,2 BHK,Prestige,460,1,0,2200000,Priya Gupta,3210987654,Greenwood Apartments
+apartment,Ready To Move,HSR Layout,6 Bedroom,Prestige,4400,6,3,25000000,Sanjay Shah,2109876543,Royal Residency
+apartment,Ready To Move,Kengeri,3 BHK,Prestige,1660,2,2,10500000,Divya Verma,1098765432,Silver Oaks Society
+apartment,available in 2031,Hennur Road,4 Bedroom,Prestige,3000,,,22450000,Vikram Shah,9876543210,Golden Gardens
+apartment,available in 2031,Whitefield,2 BHK,Prestige,1326,2,2,7800000,Neha Reddy,8765432109,Palm View Society
+apartment,Ready To Move,Hebbal,3 BHK,Prestige,1325,2,2,6080000,Anil Iyer,7654321098,Maple Heights
+apartment,Ready To Move,Hebbal,3 BHK,Prestige,1499,5,2,10200000,Pooja Kapoor,6543210987,Lakeview Towers
+apartment,Ready To Move,Hebbal,6 Bedroom,Prestige,3000,7,2,21000000,Rajesh Sharma,5432109876,Orchid Enclave
+apartment,Ready To Move,HSR Layout,3 BHK,Prestige,1665,3,2,8800000,Sneha Choudhary,4321098765,Sunrise Heights
+apartment,available in 2031,Domlur,2 BHK,Prestige,708,2,2,3700000,Amit Patel,3210987654,Skyline Gardens
+apartment,Ready To Move,HSR Layout,2 BHK,Prestige,1060,2,2,5806000,Priya Iyer,2109876543,Ocean Vista
+stand alone house,Ready To Move,Marathahalli,6 Bedroom,Prestige,710,6,3,16000000,Sanjay Kapoor,1098765432,Spring Meadows
+apartment,Ready To Move,Sarjapur,2 BHK,Prestige,1000,2,2,7000000,Divya Sharma,9876543210,Riverside Residency
+apartment,available in 2031,Electronic City,2 BHK,Prestige,1000,2,1,2888000,Vikram Singh,8765432109,Greenwood Apartments
+apartment,Ready To Move,Marathahalli,3 BHK,Prestige,1450,2,2,7000000,Neha Patel,7654321098,Royal Residency
+stand alone house,Ready To Move,HSR Layout,4 Bedroom,Prestige,1200,4,2,15500000,Anil Verma,6543210987,Silver Oaks Society
+apartment,available in 2031,Sarjapur,2 BHK,Prestige,1296,2,3,8000000,Pooja Shah,5432109876,Golden Gardens
+apartment,Ready To Move,Domlur,3 BHK,Prestige,1540,3,2,9000000,Rajesh Reddy,4321098765,Palm View Society
+stand alone house,Ready To Move,Kengeri,4 Bedroom,Prestige,2894,4,1,24500000,Sneha Iyer,3210987654,Maple Heights
+apartment,Ready To Move,Sarjapur,3 BHK,Prestige,1330,2,1,4800000,Amit Kapoor,2109876543,Lakeview Towers
+apartment,Ready To Move,Domlur,2 BHK,Prestige,1200,2,1,6500000,Priya Sharma,1098765432,Orchid Enclave
+apartment,Ready To Move,Sarjapur,3 Bedroom,Prestige,1200,3,1,9000000,Sanjay Singh,9876543210,Sunrise Heights
+apartment,Ready To Move,Whitefield,3 BHK,Prestige,2502,3,3,13800000,Divya Patel,8765432109,Skyline Gardens
